@@ -1,4 +1,11 @@
 ***** clone một reponstory trên git về :
 đứng tại thư mục muốn colne về rồi tạo teminal git clone (url của reponstory đó)
 
+cách pull code về khio gặp sung đột có ng cùng sửa file 
+git pull nếu vẫn gặp lỗi thì dùng thêm  git pull --no-rebase để kéo code từ trên git về và cả code dưới local cùng hiển thị 
+
+<<<<<<< HEAD
 chỉnh sửa dưới local rồi commit len trên git 
+=======
+chỉnh sửa trực tiếp trên git 
+>>>>>>> 3ca85eddfceadf9e38448fb10099645cd268f25e
