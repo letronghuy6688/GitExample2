@@ -7,3 +7,8 @@ git pull nếu vẫn gặp lỗi thì dùng thêm  git pull --no-rebase Hợp nh
 chỉnh sửa dưới local rồi commit len trên git 
 
 chỉnh sửa trực tiếp trên git 
+
+
+
+***** muốn clone code hay thay đổi của một branch khách về branch của mình thì 
+git rebase <branch name>
