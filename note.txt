@@ -1,0 +1,3 @@
+***** clone một reponstory trên git về :
+đứng tại thư mục muốn colne về rồi tạo teminal git clone (url của reponstory đó)
+
